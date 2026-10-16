@@ -1,0 +1,13 @@
+# Python / Backend
+__pycache__/
+venv/
+*.pyc
+.env
+
+# Node / Frontend
+node_modules/
+dist/
+.DS_Store
+
+# (Optional) If you don't want to push the 94MB weights file, uncomment the line below:
+# backend/lung_colon_resnet50.pth
